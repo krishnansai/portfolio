@@ -1,0 +1,48 @@
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 25px;
+
+}
+ul li{
+    display: inline-block;
+
+}
+ul li a{
+    text-decoration: none;
+    color: blue;
+    padding: 5px 20PX;
+    border: 1px solid blue;
+    transition: 0.8s ease;
+}
+ul li a:hover{
+    background-color: slateblue;
+    color: white;
+}
+body{
+    background-color: #090a20;
+}
+.frd{
+    color: #eee;
+    font-size: 18;
+    font-weight: lighter;
+    text-transform: capitalize;
+}
+.about{
+    color: #eee;
+    font-size: large;
+    font-weight: lighter;
+    vertical-align: top;
+
+}
+.carrier{
+    color: #eee;
+    font-size: large;
+    font-weight: lighter;
+
+}
+.head{
+    color: #eee;
+    text-align: center;
+}
+
